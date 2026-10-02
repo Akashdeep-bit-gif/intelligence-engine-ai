@@ -1,0 +1,24 @@
+{
+  "user_context": {
+    "monthly_income": 45000,
+    "current_balance": 12500,
+    "days_left_in_month": 12
+  },
+  "spending_velocity": {
+    "dining_out": {
+      "budget": 8000,
+      "spent": 7200,
+      "trend": "accelerating"
+    },
+    "transport": {
+      "budget": 4000,
+      "spent": 2100,
+      "trend": "stable"
+    },
+    "subscriptions": {
+      "budget": 1500,
+      "spent": 1500,
+      "trend": "fixed"
+    }
+  }
+}
