@@ -11,7 +11,12 @@
 [![Recharts](https://img.shields.io/badge/Recharts-2.x-22B5BF?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://recharts.org/)
 
 An executive-grade financial terminal pairing real-time MySQL 8.4 telemetry with Google Gemini AI reasoning for predictive burn-rate modeling, statistical anomaly detection, and automated cash runway forecasting.
+<!-- Dashboard Preview Banner -->
+<div align="center">
 
+![AURA Intelligence Engine Dashboard](screenshot.png)
+
+</div>
 </div>
 
 ---
@@ -37,4 +42,4 @@ An executive-grade financial terminal pairing real-time MySQL 8.4 telemetry with
   |  - Unstructured Expense Parsing     |                    |  - Transaction Persistence      |
   |  - Statistical Anomaly Ingestion    |                    |  - Z-Score Historical Telemetry  |
   |  - Wealth Co-Pilot Strategy         |                    |  - Liquidity Snapshots           |
-  +-------------------------------------+                    +-------------------------------------+
+  +-------------------------------------+                    +-------------------------------------+s
